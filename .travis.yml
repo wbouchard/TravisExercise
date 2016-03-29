@@ -1,0 +1,5 @@
+language: java
+ant test
+jdk:
+	- oraclejdk8
+	- oraclejdk7
